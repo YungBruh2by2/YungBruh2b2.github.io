@@ -1,0 +1,42 @@
+h1 {
+	text-align: center;
+color: darkred;
+text-shadow:2px 2px black;
+margin-bottom: 3px;
+}
+body {
+	background-image: url("skyrim-bg.jpg.jpg");
+}
+a {
+	color: darkred;	
+	display: block;
+	text-align: center;
+	text-shadow: 2px 2px black;
+}
+
+img {
+	display: block;
+	margin: 40px auto; 0 auto;
+	width: 50%;
+}
+div {
+	border-style: solid ;
+	border-color: black;
+	margin-top:20px;
+	text-align: center;
+}
+a {
+	color: darkred;
+	display: inline-block;
+	text-shadow: 2px 2px black;
+	margin: 5px 10px;
+	mar
+}
+
+h2 {
+	text-shadow: 2px 2px darkred;
+}
+
+p {
+	text-shadow: 2px 2px darkred;
+}
